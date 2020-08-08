@@ -1,0 +1,9 @@
+{
+    "parent": "left2mine:block/orientable",
+    "textures": {
+        "top": "left2mine:blocks/proximitysensor_top",
+        "front": "left2mine:blocks/proximitysensor_front",
+		"back": "left2mine:blocks/proximitysensor_back",
+        "side": "left2mine:blocks/proximitysensor_side"
+    }
+}

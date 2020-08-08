@@ -1,0 +1,10 @@
+{
+  "variants": {
+        "facing=up":    { "model": "left2mine:light1", "uvlock": false },
+        "facing=down":  { "model": "left2mine:light1", "uvlock": false, "x": 180 },
+        "facing=east":  { "model": "left2mine:light1", "uvlock": false, "x": 90, "y": 90 },
+        "facing=west":  { "model": "left2mine:light1", "uvlock": false, "x": 90, "y": 270 },
+        "facing=south": { "model": "left2mine:light1", "uvlock": false, "x": 90, "y": 180 },
+        "facing=north": { "model": "left2mine:light1", "uvlock": false, "x": 90 }
+    }
+}

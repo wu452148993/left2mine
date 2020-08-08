@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "left2mine:ammopile" },
+            { "model": "left2mine:ammopile", "y": 90 },
+            { "model": "left2mine:ammopile", "y": 180 },
+            { "model": "left2mine:ammopile", "y": 270 }
+        ]
+    }
+}

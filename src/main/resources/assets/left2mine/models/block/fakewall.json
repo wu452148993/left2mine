@@ -1,0 +1,7 @@
+{
+	"parent": "block/door_top",
+	"textures": {
+        "bottom": "left2mine:blocks/fakewall",
+        "top": "left2mine:blocks/fakewall"
+    }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "left2mine:blocks/saferoomdoor_lower"
+  }
+}

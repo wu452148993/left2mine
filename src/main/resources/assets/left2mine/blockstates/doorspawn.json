@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "left2mine:doorspawn" },
+        "facing=south": { "model": "left2mine:doorspawn" },
+        "facing=west":  { "model": "left2mine:doorspawn" },
+        "facing=east":  { "model": "left2mine:doorspawn" }
+    }
+}

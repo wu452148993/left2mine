@@ -1,0 +1,26 @@
+[DECEASEDPLAYERS]
+
+
+
+
+
+
+[C]§nSurvivors
+
+[SURVIVORS]
+
+
+
+
+
+
+[C]§nGameplay Stats
+
+[GAMEPLAYSTATS]
+
+
+
+
+
+
+[T] zombies were harmed in the making of this film.

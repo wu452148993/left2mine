@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "left2mine:proximitysensor" },
+        "facing=south": { "model": "left2mine:proximitysensor", "y": 180 },
+        "facing=west":  { "model": "left2mine:proximitysensor", "y": 270 },
+        "facing=east":  { "model": "left2mine:proximitysensor", "y": 90 }
+    }
+}

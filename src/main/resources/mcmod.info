@@ -1,0 +1,16 @@
+[
+{
+  "modid": "left2mine",
+  "name": "Left 2 Mine",
+  "description": "A mod for creating and playing 'Left 4 Dead' style maps! 'Left 4 Dead' is property of Valve Corporation all music and sound belongs to them",
+  "version": "1.12.2-v1.0.4",
+  "mcversion": "",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TheCallunxz"],
+  "credits": "Valve for the Left 4 Dead series and sounds/music used in this mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

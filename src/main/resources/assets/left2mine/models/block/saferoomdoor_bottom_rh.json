@@ -1,0 +1,7 @@
+{
+	"parent": "block/door_bottom_rh",
+	"textures": {
+        "bottom": "left2mine:blocks/saferoomdoor_lower",
+        "top": "left2mine:blocks/saferoomdoor_upper"
+    }
+}
